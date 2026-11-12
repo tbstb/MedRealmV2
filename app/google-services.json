@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049573336255",
+    "project_id": "gen-lang-client-0207032891",
+    "storage_bucket": "gen-lang-client-0207032891.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049573336255:android:11c20165b53029f349d20a",
+        "android_client_info": {
+          "package_name": "com.aistudio.medrealm.xkpqlz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKDKOMH0StUz1ukdB0UDCjTu8JG3lQkzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
